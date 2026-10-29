@@ -1,0 +1,18 @@
+{
+  "background_color": "#333f4c",
+  "dir": "auto",
+  "display": "standalone",
+  "name": "Meter Ledger",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "MeterLedger",
+  "start_url": "/",
+  "theme_color": "#206a75",
+  "id": "com.meter.ledger",
+  "description": "A simple meter reading and billing tracker",
+  "lang": "en",
+  "categories": [
+    "productivity",
+    "utilities"
+  ]
+}
